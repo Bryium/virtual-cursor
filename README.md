@@ -28,10 +28,10 @@ A Python-based virtual cursor system that leverages hand tracking to control mou
     python VirtualMouse.py
 
 4. **Tech Stack**
-   - **OpenCV**: – for video capture and image processing.
-   - **MediaPipe**: – for accurate hand landmark detection.
-   - **PyAutoGUI**: – for simulating mouse movements.
-   - **NumPy**: – for numerical operations
+   - **OpenCV** – for video capture and image processing.
+   - **MediaPipe** – for accurate hand landmark detection.
+   - **PyAutoGUI** – for simulating mouse movements.
+   - **NumPy** – for numerical operations
 
    **Acknowledgements**
    - Google’s MediaPipe team for their open-source hand tracking library.
